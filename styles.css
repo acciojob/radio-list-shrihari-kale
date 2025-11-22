@@ -1,4 +1,4 @@
 /*  your css code here. If applicable */
-.red{
+label:nth-child(odd) {
 	color:rgb(255,0,0);
 }
