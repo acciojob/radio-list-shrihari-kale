@@ -2,3 +2,6 @@
 label:nth-child(odd) {
 	color:rgb(255,0,0);
 }
+label{
+	font-size:25px;
+}
