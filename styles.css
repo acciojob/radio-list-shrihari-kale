@@ -1,7 +1,7 @@
-/*  your css code here. If applicable */
-label:nth-child(odd) {
-	color:rgb(255,0,0);
+.input:nth-child(even) {
+    color: rgb(255, 0, 0); /* red */
 }
-label{
-	font-size:25px;
+
+.input {
+    font-size: 25px;
 }
