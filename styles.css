@@ -1,5 +1,5 @@
-.input:nth-child(even) {
-    color: rgb(255, 0, 0); /* red */
+.input:nth-of-type(even) {
+    color: rgb(255, 0, 0);
 }
 
 .input {
